@@ -1,6 +1,16 @@
 Assignment 4 - Components
 ===
 
+## An Arcade Game Scoreboard
+Michael Lai (Link here dumbass)
+
+The first step in this project was to implement a fix to a3 in order to hook up OAuth to something. I also would improve the ui and add a CSS stylesheet. (Things from A3 I didn't get to do).
+
+After was the actual port to React.
+
+## Old Readme Below
+===
+
 Due: October 4th, by 11:59 AM.
 
 For this assignment you will re-implement the client side portion of *either* A2 or A3 using either React or Svelte components. If you choose A3 you only need to use components for the data display / updating; you can leave your login UI as is.
